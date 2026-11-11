@@ -1,4 +1,4 @@
-Victor Eta Mbora 
+Victor Eta Mbora-Main
 BU/24C/IT/10972.
 1. In Module 2, I learned that Git is a version control tool on my computer that saves snapshots of my project.
 2. A branch is "like a private notebook page" where you try changes before they touch main. 
