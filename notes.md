@@ -9,3 +9,4 @@ VICTOR ETA MBORA      BU/24C/IT/10972.
 8. Merge Conflict: This is where two branches change the same line and Git can't choose. 
 9. Pull vs Fetch: Pull merges(joins) into the branch I'm currently on. Then Fetch downloads new changes but leaves my files unchanged. 
 10. Distributed: Everyone has the full history on their own computer, so not one server has the only copy. 
+11. Git hub helps track things and control things.
